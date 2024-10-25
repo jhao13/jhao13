@@ -28,7 +28,7 @@
   </tr>
     <tr>
     <td><a href="https://github.com/jhao13/FCC-Salon-Appointment-Scheduler-Project">Appointment Scheduler</a></td>
-    <td>Interactive Bash program that uses PSQL database to manage customers and appointments for a salon.</td>
+    <td>Interactive Bash program that uses PSQL database to manage customers and appointment time for a salon.</td>
   </tr>
     <tr>
     <td></td>
