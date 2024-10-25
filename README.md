@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 👩‍💻 About Me : <br>
-⚡ Information Technology graduate, learning to code and building up my project portfolio on GitHub to kickstart my career in data analysis. <br>
+⚡ Information Technology undergrad, learning to code and building up my project portfolio on GitHub to kickstart my career in data analysis. <br>
 💻 Working on improving my SQL skills to query data for greater insights and expanding my knowledge of Tableau and Power BI. <br>
 
 -----
