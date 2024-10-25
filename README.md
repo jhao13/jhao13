@@ -20,7 +20,7 @@
       </ul>
     </td>
     <td><a href="https://github.com/jhao13/FCC-Celestial-Bodies-Database-Project">Celestial Bodies Database</a></td>
-    <td>Creating a relational databases with fictional Celestial Bodies.</td>
+    <td>Creating a relational databases with Celestial Bodies.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/jhao13/FCC-Worldcup-Database-Project">World Cup Database</a></td>
