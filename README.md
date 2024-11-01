@@ -31,8 +31,8 @@
     <td>Interactive Bash program that uses PSQL database to manage customers and appointment time for a salon.</td>
   </tr>
     <tr>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/jhao13/FCC-Periodic-Table-Database-Project/tree/main?tab=readme-ov-file">Periodic Table Database</a></td>
+    <td>SQL and Bash script that queries data based on user request.</td>
   </tr>
     <tr>
     <td></td>
