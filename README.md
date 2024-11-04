@@ -31,12 +31,12 @@
     <td>Interactive Bash program that uses PSQL database to manage customers and appointment time for a salon.</td>
   </tr>
     <tr>
-    <td><a href="https://github.com/jhao13/FCC-Periodic-Table-Database-Project/tree/main?tab=readme-ov-file">Periodic Table Database</a></td>
+    <td><a href="https://github.com/jhao13/FCC-Periodic-Table-Database-Project">Periodic Table Database</a></td>
     <td>PSQL and Bash script that queries data based on user request.</td>
   </tr>
     <tr>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/jhao13/FCC-Number-Guessing-Game-Project">Number Guessing Game</a></td>
+    <td>Using PSQL and bash script to create a interactive number guessing game in the terminal that saves user information and updates database with each game played.</td>
   </tr>
 </table>
 
