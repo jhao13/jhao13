@@ -5,6 +5,29 @@
 💻 Working on improving my SQL skills to query data for greater insights and expanding my knowledge of Tableau and Power BI. <br>
 
 -----
+💻📊 Projects List :
+<table>
+  <tr>
+    <th>Project Repository</th>
+    <th>Description</th>
+    <th>Tools Used</th>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/jhao13/NBA-Player-Stats-Analysis">NBA Player Stats</a></td>
+    <td><ul>
+          <li>
+            Perform data analysis with data visualization using Pivot Tables, Graphs, and Charts.
+          </li>
+        </ul>
+    </td>
+    <td>Google Sheets, Excel</td>
+  </tr>
+  <tr>
+    
+</table>
+
+-----
 
 💻📊 Projects Submitted as part of FreeCodeCamp course certification :
 <table>
