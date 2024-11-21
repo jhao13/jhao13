@@ -12,7 +12,16 @@
     <th>Description</th>
     <th>Tools Used</th>
   </tr>
-  
+    <tr>
+    <td><a href="https://github.com/jhao13/COVID-data-exploration-with-SQL">Covid Data Exploration</a></td>
+    <td><ul>
+          <li>
+            Data exploration and visualisation of death and infection rates of Covid-19
+          </li>
+        </ul>
+    </td>
+    <td>SSMS, Excel, SQL, Tableau</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/jhao13/NBA-Player-Stats-Analysis">NBA Player Stats</a></td>
     <td><ul>
